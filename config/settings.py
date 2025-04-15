@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
+import ssl
 from decouple import config
 from django.utils.translation import gettext_lazy as _
 
@@ -188,17 +189,15 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
 # -----------------------------------
 # E-mail configuration
-
-EMAIL_BACKEND = config(
-    "EMAIL_BACKEND", default="django.core.mail.backends.smtp.EmailBackend"
-)
-EMAIL_HOST = config("EMAIL_HOST", default="smtp.gmail.com")
-EMAIL_PORT = config("EMAIL_PORT", default=587)
-EMAIL_USE_TLS = config("EMAIL_USE_TLS", default=True, cast=bool)
-EMAIL_HOST_USER = config("EMAIL_HOST_USER", default="kirankumarmalik321@gmail.com")
-EMAIL_HOST_PASSWORD = config("EMAIL_HOST_PASSWORD", default="ykbz gxhn whjb jrha")
-EMAIL_FROM_ADDRESS = config("EMAIL_FROM_ADDRESS", default="kirankumarmalik321@gmail.com")
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
+EMAIL_HOST_USER = "kirankumarmalik321@gmail.com"
+EMAIL_HOST_PASSWORD = "ykbz gxhn whjb jrha"
+DEFAULT_FROM_EMAIL = "kirankumarmalik321@gmail.com"
+
 
 # crispy config
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
