@@ -37,7 +37,7 @@
 <div class="row users-count px-3">
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-aqua"></i></h3>
+			<h3><i class="fas fa-user-graduate bg-light-aqua"></i></h3>
 			<div class="text-right">
 				{% trans 'Students' %}
 				<h2>{{ student_count }}</h2>
@@ -46,7 +46,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-orange"></i></h3>
+			<h3><i class="fas fa-chalkboard-teacher bg-light-orange"></i></h3>
 			<div class="text-right">
 				{% trans 'Lecturers' %}
 				<h2>{{ lecturer_count }}</h2>
@@ -55,7 +55,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-red"></i></h3>
+			<h3><i class="fas fa-unlock-alt bg-light-red"></i></h3>
 			<div class="text-right">
 				{% trans 'Administrators' %}
 				<h2>{{ superuser_count }}</h2>
@@ -64,7 +64,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-purple"></i></h3>
+			<h3><i class="fas fa-flask bg-light-purple"></i></h3>
 			<div class="text-right">
 				{% trans 'Lab Assistance' %}
 				<h2>500</h2>
@@ -73,7 +73,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-red"></i></h3>
+			<h3><i class="fas fa-book bg-light-red"></i></h3>
 			<div class="text-right">
 				{% trans 'Librarians' %}
 				<h2>300</h2>
@@ -82,7 +82,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-purple"></i></h3>
+			<h3><i class="fas fa-cog bg-light-purple"></i></h3>
 			<div class="text-right">
 				{% trans 'Supervisors' %}
 				<h2>660</h2>
@@ -91,7 +91,7 @@
 	</div>
 	<div class="col-6 col-md-3 mb-3 px-2">
 		<div class="card-count p-3">
-			<h3><i class="fas fa-users bg-light-orange"></i></h3>
+			<h3><i class="fas fa-briefcase bg-light-orange"></i></h3>
 			<div class="text-right pl-2">
 				{% trans 'Office Assistance' %}
 				<h2>1,700</h2>
@@ -180,7 +180,7 @@
 </script>
 <script>
 	const malesCount = {{ males_count }}
-const femalesCount = {{ females_count }}
+    const femalesCount = {{ females_count }}
 
 $(document).ready(function () {
 
