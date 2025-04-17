@@ -10,7 +10,7 @@ _Documentation is under development_
 
 Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-<img width="1440" alt="screenshot" src="https://github.com/user-attachments/assets/08644f49-6ae0-4695-86cc-afe331c6f61a">
+<img width="1440" alt="screenshot" src="https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/e22cd1b496ad113e001b118c81f8854bddbf1856/ss/Screenshot%202025-04-17%20200510.png">
 
 ## Current features
 
@@ -88,7 +88,14 @@ python manage.py runserver
 
 Last but not least, go to this address http://127.0.0.1:8000
 
-#### _Check [this page](https://adilmohak.github.io/dj-lms-starter/) for more insight and support._
+## Admin UI
+Admin Login
+username: admin_username
+Password: admin_password
+![login (65)](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/e22cd1b496ad113e001b118c81f8854bddbf1856/ss/Screenshot%202025-04-17%20200416.png)
+
+Admin Dashboard
+![login (65)](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/e22cd1b496ad113e001b118c81f8854bddbf1856/ss/Screenshot%202025-04-17%20200510.png)
 
 # References
 
