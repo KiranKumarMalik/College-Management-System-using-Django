@@ -1,4 +1,4 @@
-![Group 23](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/a420fea17120adb996deba4b15d26c87c1d16d24/static/img/cms2.jpg)
+![Group 23](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/52442e4071c47a48fe24047c9be670615c528b83/static/img/cms_long.png)
 
 ### The world’s most high-end designed, lightweight, and feature-rich learning management system.
 
