@@ -89,7 +89,7 @@ python manage.py runserver
 Last but not least, go to this address http://127.0.0.1:8000
 
 ## Admin UI
-- Admin Login
+Admin Login
 - username: admin_username
 - Password: admin_password
 ![login (65)](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/e22cd1b496ad113e001b118c81f8854bddbf1856/ss/Screenshot%202025-04-17%20200416.png)
