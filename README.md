@@ -97,6 +97,14 @@ Admin Login
 Admin Dashboard
 ![login (65)](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/e22cd1b496ad113e001b118c81f8854bddbf1856/ss/Screenshot%202025-04-17%20200510.png)
 
+Admin Profile
+![login (65)](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/4107ae7ce7afcd27119e0139a3bf171a42316031/ss/Screenshot%202025-04-19%20194859.png)
+
+Profile Edit
+![Edit](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/4107ae7ce7afcd27119e0139a3bf171a42316031/ss/Screenshot%202025-04-19%20194944.png)
+
+![Confirm](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/4107ae7ce7afcd27119e0139a3bf171a42316031/ss/Screenshot%202025-04-19%20194957.png)
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
