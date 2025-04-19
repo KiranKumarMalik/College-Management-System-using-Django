@@ -105,6 +105,10 @@ Profile Edit
 
 ![Confirm](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/4107ae7ce7afcd27119e0139a3bf171a42316031/ss/Screenshot%202025-04-19%20194957.png)
 
+Admin Panel
+
+![panel](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/5fe5d6560a1fcffbe25b9a3c9e06b46245b1a320/ss/Screenshot%202025-04-19%20195011.png)
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
