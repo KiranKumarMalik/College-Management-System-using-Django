@@ -119,6 +119,20 @@ Add Lecturers
 
 ![Added](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9b7feab9ef50d6ab019484f98ddd5a7ac2405429/ss/Screenshot%202025-04-19%20195310.png)
 
+## Lecturer UI
+
+Create/Forgot/Reset Password
+
+![reset](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195344.png)
+
+![forget](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195410.png)
+
+![EmailReset](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195426.png)
+
+![mail](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195453.png)
+
+
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
