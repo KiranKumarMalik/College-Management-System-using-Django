@@ -131,7 +131,9 @@ Create/Forgot/Reset Password
 
 ![mail](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195453.png)
 
+![ConfirmPass](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/dced687617d265c22ff532fc82b2a3379781ec00/ss/Screenshot%202025-04-19%20195527.png)
 
+![Confirmation](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9dcc4f625626a2981d3789556d731be2dec8749d/ss/Screenshot%202025-04-19%20195551.png)
 
 # References
 
