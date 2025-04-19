@@ -109,6 +109,16 @@ Admin Panel
 
 ![panel](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/5fe5d6560a1fcffbe25b9a3c9e06b46245b1a320/ss/Screenshot%202025-04-19%20195011.png)
 
+Lecturer List
+
+![Lecturer](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9b7feab9ef50d6ab019484f98ddd5a7ac2405429/ss/Screenshot%202025-04-19%20195023.png)
+
+Add Lecturers
+
+![add](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9b7feab9ef50d6ab019484f98ddd5a7ac2405429/ss/Screenshot%202025-04-19%20195124.png)
+
+![Added](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9b7feab9ef50d6ab019484f98ddd5a7ac2405429/ss/Screenshot%202025-04-19%20195310.png)
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
