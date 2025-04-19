@@ -135,6 +135,18 @@ Create/Forgot/Reset Password
 
 ![Confirmation](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9dcc4f625626a2981d3789556d731be2dec8749d/ss/Screenshot%202025-04-19%20195551.png)
 
+Lecturer Login
+
+![login](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9dcc4f625626a2981d3789556d731be2dec8749d/ss/Screenshot%202025-04-19%20195648.png)
+
+lecturer Home
+
+![home](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/f0a27cf3161dd71f4a531883df6ad5e370f8e6f8/ss/Screenshot%202025-04-19%20195701.png)
+
+Profile
+
+![profile](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/f0a27cf3161dd71f4a531883df6ad5e370f8e6f8/ss/Screenshot%202025-04-19%20195725.png)
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
