@@ -174,7 +174,21 @@ Profile
 
 Student Login
 
-![login]
+![reset](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-19%20195410.png)
+
+![mail](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-20%20225047.png)
+
+![password](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-19%20195527.png)
+
+![resetsuccess](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-19%20195551.png)
+
+![login](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-20%20225525.png)
+
+Student Home
+
+![studentHome](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-20%20225911.png)
+
+![studentProfile](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/7c4e996287f68542533734f232b1fab8df6ab9ba/ss/Screenshot%202025-04-20%20230135.png)
 
 
 # References
