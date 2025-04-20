@@ -119,6 +119,12 @@ Add Lecturers
 
 ![Added](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/9b7feab9ef50d6ab019484f98ddd5a7ac2405429/ss/Screenshot%202025-04-19%20195310.png)
 
+Add Program and Course
+
+![add](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/befaff1ab752c6483a2e122e017f4ecd36687625/ss/Screenshot%202025-04-20%20205517.png)
+
+![list](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/befaff1ab752c6483a2e122e017f4ecd36687625/ss/Screenshot%202025-04-20%20205552.png)
+
 ## Lecturer UI
 
 Create/Forgot/Reset Password
