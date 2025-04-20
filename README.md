@@ -169,6 +169,14 @@ Profile
 
 ![profile](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/f0a27cf3161dd71f4a531883df6ad5e370f8e6f8/ss/Screenshot%202025-04-19%20195725.png)
 
+
+## Student UI
+
+Student Login
+
+![login]
+
+
 # References
 
 - Quiz part: https://github.com/tomwalker/django_quiz
