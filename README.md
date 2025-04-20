@@ -133,7 +133,7 @@ Add Program and Course
 
 Add Student
 
-![list]()
+![list](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/df1f88ecd673b2bce378b564bb5f33f5d19dde9c/ss/Screenshot%202025-04-20%20204642.png)
 
 ![addStudent](https://github.com/KiranKumarMalik/College-Management-System-using-Django/blob/38355cd26878cff456061c72ad529f8b8fa6b221/ss/Screenshot%202025-04-20%20210158736.png)
 
