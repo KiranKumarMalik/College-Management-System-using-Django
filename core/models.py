@@ -14,11 +14,21 @@ POST = (
 FIRST = _("First")
 SECOND = _("Second")
 THIRD = _("Third")
+FORTH = _("Forth")
+FIFTH = _("Fifth")
+SIXTH = _("Sixth")
+SEVENTH = _("Seventh")
+EIGHTH = _("Eighth")
 
 SEMESTER = (
     (FIRST, _("First")),
     (SECOND, _("Second")),
     (THIRD, _("Third")),
+    (FORTH, _("Forth")),
+    (FIFTH, _("Fifth")),
+    (SIXTH, _("Sixth")),
+    (SEVENTH, _("Seventh")),
+    (EIGHTH, _("Eighth")),
 )
 
 
